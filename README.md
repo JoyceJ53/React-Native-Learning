@@ -27,6 +27,7 @@ To recreate the development environment, you need the following software and/or 
 * VS Code
 * Expo SDK 53.0.10
 * @react-navigation/native & @react-navigation/native-stack
+* node.js
 
 ## Useful Websites to Learn More
 
